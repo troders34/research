@@ -79,7 +79,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="l8bQm0YvzcbLrBAsz5wB" name="Connect">
-    <mxGraphModel dx="658" dy="417" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="382" dy="242" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -181,8 +181,8 @@
         <mxCell id="xJ5-72806mQReHOhPisn-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xJ5-72806mQReHOhPisn-26" target="xJ5-72806mQReHOhPisn-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xJ5-72806mQReHOhPisn-35" value="tidak perlu" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xJ5-72806mQReHOhPisn-34">
-          <mxGeometry x="-0.7964" y="-3" relative="1" as="geometry">
+        <mxCell id="xJ5-72806mQReHOhPisn-38" value="tidak perlu" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xJ5-72806mQReHOhPisn-34">
+          <mxGeometry x="-0.6419" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
