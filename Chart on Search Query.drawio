@@ -38,7 +38,7 @@
         <mxCell id="8A1eNJOHPVuHeKG6YOcv-34" value="- Google Scholar&lt;div&gt;- IEEE Xplore&lt;/div&gt;&lt;div&gt;- Science Direct&lt;/div&gt;&lt;div&gt;- ResearchGate&lt;/div&gt;&lt;div&gt;- Springer&lt;/div&gt;&lt;div&gt;- arXiv&lt;/div&gt;&lt;div&gt;- Open Library Repo by Campuses&lt;/div&gt;&lt;div&gt;- other open sources&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;align=left;" parent="1" vertex="1">
           <mxGeometry x="304" y="690" width="220" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="8A1eNJOHPVuHeKG6YOcv-36" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="8A1eNJOHPVuHeKG6YOcv-36" value="mulai" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="394" y="40" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="agcul4YPGaXAF8uBw675-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="agcul4YPGaXAF8uBw675-1" target="8A1eNJOHPVuHeKG6YOcv-1">
@@ -69,7 +69,7 @@
         <mxCell id="agcul4YPGaXAF8uBw675-15" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;Query:&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&quot;LDAP Authentication&quot; AND &quot;LDAP Server&quot; OR &quot;LDAP Hotspot Authentication&quot;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="370" y="250" width="440" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="agcul4YPGaXAF8uBw675-26" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="agcul4YPGaXAF8uBw675-26" value="selesai" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="364" y="880" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="agcul4YPGaXAF8uBw675-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="8A1eNJOHPVuHeKG6YOcv-34" target="agcul4YPGaXAF8uBw675-26">
@@ -79,7 +79,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="l8bQm0YvzcbLrBAsz5wB" name="Connect">
-    <mxGraphModel dx="382" dy="242" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1122" dy="712" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
