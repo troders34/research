@@ -355,14 +355,14 @@
     </mxGraphModel>
   </diagram>
   <diagram id="M7o5dZk92p-_ypxoZT8d" name="Orange Pi">
-    <mxGraphModel dx="1122" dy="712" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="954" dy="605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="bHf5Mjlzlaa5QL1SMxv0-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="80" width="270" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="bHf5Mjlzlaa5QL1SMxv0-1" value="&lt;div&gt;Operational:&amp;nbsp;&lt;/div&gt;Casa OS" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;align=center;" vertex="1" parent="1">
+        <mxCell id="bHf5Mjlzlaa5QL1SMxv0-1" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Casa OS&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;align=center;" vertex="1" parent="1">
           <mxGeometry x="60" y="100" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="bHf5Mjlzlaa5QL1SMxv0-4" value="STB HG680P" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -392,10 +392,23 @@
         <mxCell id="bHf5Mjlzlaa5QL1SMxv0-16" value="SSH/PuTTY" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1.006;entryY=0.597;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bHf5Mjlzlaa5QL1SMxv0-12" target="bHf5Mjlzlaa5QL1SMxv0-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bHf5Mjlzlaa5QL1SMxv0-12" value="Configurator:&lt;div&gt;PC&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="470" y="150" width="100" height="50" as="geometry" />
+        <mxCell id="bHf5Mjlzlaa5QL1SMxv0-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.912;entryY=0.375;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bHf5Mjlzlaa5QL1SMxv0-12" target="bHf5Mjlzlaa5QL1SMxv0-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="390" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="465" y="380" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="bHf5Mjlzlaa5QL1SMxv0-13" value="Linux Armbian" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="bHf5Mjlzlaa5QL1SMxv0-48" value="ZeroTier Network ID 1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bHf5Mjlzlaa5QL1SMxv0-46">
+          <mxGeometry x="-0.5819" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bHf5Mjlzlaa5QL1SMxv0-12" value="Configurator:&lt;div&gt;PC&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="440" y="150" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bHf5Mjlzlaa5QL1SMxv0-13" value="framework:&lt;div&gt;Linux Armbian&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="170" y="100" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="bHf5Mjlzlaa5QL1SMxv0-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.998;entryY=0.162;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bHf5Mjlzlaa5QL1SMxv0-6" target="bHf5Mjlzlaa5QL1SMxv0-3">
@@ -423,19 +436,10 @@
         <mxCell id="bHf5Mjlzlaa5QL1SMxv0-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.715;entryY=0.216;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bHf5Mjlzlaa5QL1SMxv0-5" target="bHf5Mjlzlaa5QL1SMxv0-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bHf5Mjlzlaa5QL1SMxv0-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.96;entryY=0.7;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bHf5Mjlzlaa5QL1SMxv0-12" target="bHf5Mjlzlaa5QL1SMxv0-24">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="520" y="406" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="bHf5Mjlzlaa5QL1SMxv0-29" value="ZeroTier Network ID" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bHf5Mjlzlaa5QL1SMxv0-28">
-          <mxGeometry x="-0.7491" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="bHf5Mjlzlaa5QL1SMxv0-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bHf5Mjlzlaa5QL1SMxv0-31" target="bHf5Mjlzlaa5QL1SMxv0-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bHf5Mjlzlaa5QL1SMxv0-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bHf5Mjlzlaa5QL1SMxv0-31" target="bHf5Mjlzlaa5QL1SMxv0-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bHf5Mjlzlaa5QL1SMxv0-31" value="NAS STB HG680P" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
@@ -461,6 +465,24 @@
         </mxCell>
         <mxCell id="bHf5Mjlzlaa5QL1SMxv0-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.55;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bHf5Mjlzlaa5QL1SMxv0-39" target="bHf5Mjlzlaa5QL1SMxv0-34">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bHf5Mjlzlaa5QL1SMxv0-42" value="e-Commerce" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="270" y="480" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bHf5Mjlzlaa5QL1SMxv0-44" value="Configurator 2: Smartphone" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="490" y="230" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bHf5Mjlzlaa5QL1SMxv0-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.96;entryY=0.7;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bHf5Mjlzlaa5QL1SMxv0-44" target="bHf5Mjlzlaa5QL1SMxv0-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="540" y="406" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bHf5Mjlzlaa5QL1SMxv0-49" value="ZeroTier Network ID 2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bHf5Mjlzlaa5QL1SMxv0-47">
+          <mxGeometry x="-0.7784" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
