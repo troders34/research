@@ -359,6 +359,52 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="bHf5Mjlzlaa5QL1SMxv0-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="80" width="270" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="bHf5Mjlzlaa5QL1SMxv0-1" value="&lt;div&gt;Operational:&amp;nbsp;&lt;/div&gt;Casa OS" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;align=center;" vertex="1" parent="1">
+          <mxGeometry x="60" y="100" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bHf5Mjlzlaa5QL1SMxv0-4" value="STB HG680P" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="50" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bHf5Mjlzlaa5QL1SMxv0-5" value="Web Hosting&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Casa%20OS%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BabsoluteArcSize%3D1%3BarcSize%3D14%3BstrokeWidth%3D2%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%2260%22%20y%3D%22100%22%20width%3D%22100%22%20height%3D%2250%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="60" y="170" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bHf5Mjlzlaa5QL1SMxv0-6" value="SD Card 8GB (10)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="470" y="80" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bHf5Mjlzlaa5QL1SMxv0-7" value="Card Reader" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="440" y="220" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bHf5Mjlzlaa5QL1SMxv0-9" value="SSD SATA 128GB" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="170" y="170" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bHf5Mjlzlaa5QL1SMxv0-10" value="SATA to USB" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="330" y="220" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bHf5Mjlzlaa5QL1SMxv0-11" value="Optional:&lt;br&gt;Case Akrilik" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="550" y="220" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bHf5Mjlzlaa5QL1SMxv0-16" value="SSH/PuTTY" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1.006;entryY=0.597;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bHf5Mjlzlaa5QL1SMxv0-12" target="bHf5Mjlzlaa5QL1SMxv0-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bHf5Mjlzlaa5QL1SMxv0-12" value="Configurator:&lt;div&gt;PC&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="470" y="150" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bHf5Mjlzlaa5QL1SMxv0-13" value="Linux Armbian" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="170" y="100" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bHf5Mjlzlaa5QL1SMxv0-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.998;entryY=0.162;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bHf5Mjlzlaa5QL1SMxv0-6" target="bHf5Mjlzlaa5QL1SMxv0-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="103" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bHf5Mjlzlaa5QL1SMxv0-20" value="Burner: Balena Etcher" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bHf5Mjlzlaa5QL1SMxv0-18">
+          <mxGeometry x="-0.0067" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
