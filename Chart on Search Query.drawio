@@ -444,7 +444,7 @@
         <mxCell id="bHf5Mjlzlaa5QL1SMxv0-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="bHf5Mjlzlaa5QL1SMxv0-32" target="bHf5Mjlzlaa5QL1SMxv0-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bHf5Mjlzlaa5QL1SMxv0-32" value="Web Hosting: .my.id" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="bHf5Mjlzlaa5QL1SMxv0-32" value="Domain: .my.id" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="80" y="550" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="bHf5Mjlzlaa5QL1SMxv0-34" value="Internet" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
