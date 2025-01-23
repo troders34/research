@@ -374,17 +374,8 @@
         <mxCell id="bHf5Mjlzlaa5QL1SMxv0-6" value="SD Card 8GB (10)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="470" y="80" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="bHf5Mjlzlaa5QL1SMxv0-7" value="Card Reader" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="640" y="140" width="100" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="bHf5Mjlzlaa5QL1SMxv0-9" value="SSD SATA 128GB" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="170" y="170" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="bHf5Mjlzlaa5QL1SMxv0-10" value="SATA to USB" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="640" y="80" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="bHf5Mjlzlaa5QL1SMxv0-11" value="Optional:&lt;br&gt;Case Akrilik" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="640" y="200" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="bHf5Mjlzlaa5QL1SMxv0-16" value="SSH/PuTTY" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1.006;entryY=0.597;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Times New Roman;" parent="1" source="bHf5Mjlzlaa5QL1SMxv0-12" target="bHf5Mjlzlaa5QL1SMxv0-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
