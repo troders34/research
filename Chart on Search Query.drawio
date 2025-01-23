@@ -516,7 +516,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="R0dwxPBzJbZx4cLfB-mU-17" value="&lt;div&gt;pengelola database:&lt;/div&gt;PHPMyAdmin" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="670" y="285" width="130" height="50" as="geometry" />
+          <mxGeometry x="670" y="290" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="R0dwxPBzJbZx4cLfB-mU-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;fontFamily=Times New Roman;" parent="1" source="R0dwxPBzJbZx4cLfB-mU-26" target="R0dwxPBzJbZx4cLfB-mU-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
