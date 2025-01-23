@@ -827,6 +827,9 @@
         <mxCell id="mBLlv2TjcZy8MgiKxa9E-111" value="Lapak Dagang 2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="364" y="1000" width="100" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="oV9ivS2o45UjmTwhbKiG-3" value="referensi: website Niki Eco" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1090" width="170" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
