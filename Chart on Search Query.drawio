@@ -552,7 +552,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="WUelXuTiv1s7IngYz6v6" name="Page-7">
+  <diagram id="WUelXuTiv1s7IngYz6v6" name="Webpage 1">
     <mxGraphModel dx="1013" dy="628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -810,7 +810,7 @@
           <mxGeometry x="500" y="960" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mBLlv2TjcZy8MgiKxa9E-105" value="Lokasi Toko 2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="510" y="1020" width="100" height="30" as="geometry" />
+          <mxGeometry x="506" y="1000" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mBLlv2TjcZy8MgiKxa9E-106" value="Keterangan 1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="230" y="960" width="100" height="30" as="geometry" />
