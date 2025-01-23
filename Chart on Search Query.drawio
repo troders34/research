@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.6" pages="6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.7" pages="6">
   <diagram name="Query" id="BRKdaJomuCxjO_DwOjUR">
     <mxGraphModel dx="1122" dy="712" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -439,7 +439,7 @@
             <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bHf5Mjlzlaa5QL1SMxv0-50" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;STB HG680P as Network Attached Storage accessed Publicly&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
+        <mxCell id="bHf5Mjlzlaa5QL1SMxv0-50" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;STB HG680P sebagai Network Attached Storage Akses secara Publik&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="20" y="10" width="780" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bHf5Mjlzlaa5QL1SMxv0-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.4;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.294;entryY=0.987;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Times New Roman;" parent="1" source="bHf5Mjlzlaa5QL1SMxv0-24" target="bHf5Mjlzlaa5QL1SMxv0-5" edge="1">
