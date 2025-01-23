@@ -439,8 +439,8 @@
             <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bHf5Mjlzlaa5QL1SMxv0-50" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;STB HG680P as Network Attached Storage&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="20" y="10" width="490" height="40" as="geometry" />
+        <mxCell id="bHf5Mjlzlaa5QL1SMxv0-50" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;STB HG680P as Network Attached Storage accessed Publicly&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="20" y="10" width="780" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bHf5Mjlzlaa5QL1SMxv0-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.4;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.294;entryY=0.987;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="bHf5Mjlzlaa5QL1SMxv0-24" target="bHf5Mjlzlaa5QL1SMxv0-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
