@@ -477,10 +477,10 @@
           <mxGeometry x="240" y="190" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="R0dwxPBzJbZx4cLfB-mU-5" value="&lt;div&gt;sibukmainbuku.my.id&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="240" y="370" width="130" height="50" as="geometry" />
+          <mxGeometry x="240" y="360" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="R0dwxPBzJbZx4cLfB-mU-6" value="Internet" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="245" y="450" width="120" height="80" as="geometry" />
+          <mxGeometry x="245" y="430" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="R0dwxPBzJbZx4cLfB-mU-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.4;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.405;entryY=1.001;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Times New Roman;" parent="1" source="R0dwxPBzJbZx4cLfB-mU-6" target="R0dwxPBzJbZx4cLfB-mU-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -489,7 +489,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="R0dwxPBzJbZx4cLfB-mU-9" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;User&lt;/div&gt;" style="shape=actor;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="285" y="550" width="50" height="60" as="geometry" />
+          <mxGeometry x="290" y="540" width="50" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R0dwxPBzJbZx4cLfB-mU-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.55;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Times New Roman;" parent="1" source="R0dwxPBzJbZx4cLfB-mU-9" target="R0dwxPBzJbZx4cLfB-mU-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
