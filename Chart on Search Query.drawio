@@ -582,7 +582,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mBLlv2TjcZy8MgiKxa9E-14" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/user-interface-169/32/search-128.png" vertex="1" parent="1">
-          <mxGeometry x="750" y="141" width="28" height="28" as="geometry" />
+          <mxGeometry x="750" y="140" width="29" height="29" as="geometry" />
         </mxCell>
         <mxCell id="mBLlv2TjcZy8MgiKxa9E-15" value="Produk" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="460" y="140" width="60" height="30" as="geometry" />
