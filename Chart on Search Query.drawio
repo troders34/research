@@ -362,7 +362,7 @@
         <mxCell id="bHf5Mjlzlaa5QL1SMxv0-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="40" y="80" width="270" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="bHf5Mjlzlaa5QL1SMxv0-1" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Casa OS&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;align=center;fontFamily=Times New Roman;" parent="1" vertex="1">
+        <mxCell id="bHf5Mjlzlaa5QL1SMxv0-1" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;CasaOS&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;align=center;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="60" y="100" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="bHf5Mjlzlaa5QL1SMxv0-4" value="STB HG680P" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
