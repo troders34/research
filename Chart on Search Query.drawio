@@ -481,18 +481,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="R0dwxPBzJbZx4cLfB-mU-9" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;User&lt;/div&gt;" style="shape=actor;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="290" y="620" width="50" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="R0dwxPBzJbZx4cLfB-mU-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.55;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Times New Roman;" parent="1" target="R0dwxPBzJbZx4cLfB-mU-6" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="350" y="620" as="sourcePoint" />
-          </mxGeometry>
+          <mxGeometry x="320" y="610" width="50" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R0dwxPBzJbZx4cLfB-mU-11" value="marketplace e-Commerce&lt;div&gt;&quot;sibukmainbuku&quot;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="65" y="350" width="175" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="R0dwxPBzJbZx4cLfB-mU-12" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Mekanisme Pengaksesan Website secara Daring&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="20" y="40" width="510" height="40" as="geometry" />
+        <mxCell id="R0dwxPBzJbZx4cLfB-mU-12" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;STB HG680P for Web Hosting BIMBI&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="20" y="40" width="660" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vn3w-YxdhvABNSCsgYlg-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="R0dwxPBzJbZx4cLfB-mU-15" target="vn3w-YxdhvABNSCsgYlg-5">
           <mxGeometry relative="1" as="geometry" />
@@ -550,6 +545,9 @@
         </mxCell>
         <mxCell id="98vymdxUCOzb4iFPYd27-1" value="webpage sibukmainbuku.my.id" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="275" y="270" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="98vymdxUCOzb4iFPYd27-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.55;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="R0dwxPBzJbZx4cLfB-mU-9" target="R0dwxPBzJbZx4cLfB-mU-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
