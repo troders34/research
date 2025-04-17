@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.13" pages="5">
   <diagram name="4G Arch" id="kdekr-74l3fG8k_nJq0Z">
-    <mxGraphModel dx="1114" dy="691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1108" dy="696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -106,20 +106,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Z5OJqzmN5jXiN98Gu-ui-1" value="UE" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;verticalAlign=middle;fontSize=21;" parent="1" vertex="1">
-          <mxGeometry x="40" y="880" width="120" height="60" as="geometry" />
+        <mxCell id="1p6v8ToGm7lgZvwoAD2s-2" value="&lt;b&gt;&lt;font&gt;B&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF3333;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="240" y="140" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ydoTKZQtbN_vY7GgfIM6-4" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=3;fillColor=#f8cecc;strokeColor=#FF8000;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="380" as="sourcePoint" />
-            <mxPoint x="410" y="310" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ydoTKZQtbN_vY7GgfIM6-6" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=3;fillColor=#f8cecc;strokeColor=#FF8000;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="260" y="90" as="sourcePoint" />
-            <mxPoint x="270" y="160" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="1p6v8ToGm7lgZvwoAD2s-4" value="&lt;b&gt;&lt;font&gt;D1&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF3333;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="370" y="310" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
