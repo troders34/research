@@ -380,7 +380,7 @@
         <mxCell id="_UMRde0JE4K6m9JEhHjG-2" value="Forward Error Correction" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontFamily=Times New Roman;fontSize=18;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="260" width="210" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LyqSSASSi8tj2btOenpF-1" value="Coding" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontFamily=Times New Roman;fontSize=18;dashed=1;" vertex="1" parent="1">
+        <mxCell id="LyqSSASSi8tj2btOenpF-1" value="Channel coding" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontFamily=Times New Roman;fontSize=18;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="240" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LyqSSASSi8tj2btOenpF-2" value="Modulations" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontFamily=Times New Roman;fontSize=18;dashed=1;" vertex="1" parent="1">
