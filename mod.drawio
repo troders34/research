@@ -329,10 +329,10 @@
           <mxGeometry x="860" y="80" width="120" height="410" as="geometry" />
         </mxCell>
         <mxCell id="YEm7jdBIQaRndRMjFjBU-31" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;dashed=1;fillColor=none;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="250" y="80" width="260" height="410" as="geometry" />
+          <mxGeometry x="250" y="80" width="250" height="410" as="geometry" />
         </mxCell>
         <mxCell id="YEm7jdBIQaRndRMjFjBU-33" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;dashed=1;fillColor=none;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="520" y="80" width="330" height="410" as="geometry" />
+          <mxGeometry x="510" y="80" width="340" height="410" as="geometry" />
         </mxCell>
         <mxCell id="YEm7jdBIQaRndRMjFjBU-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;fontFamily=Times New Roman;" parent="1" source="YEm7jdBIQaRndRMjFjBU-1" target="YEm7jdBIQaRndRMjFjBU-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
