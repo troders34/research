@@ -170,7 +170,7 @@
           <mxGeometry x="670" y="160" width="60" height="120" as="geometry" />
         </mxCell>
         <mxCell id="-2vYvEhh35MdCGSL4n_s-11" value="multimedia: audio, image, text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="40" y="325" width="235" height="30" as="geometry" />
+          <mxGeometry x="40" y="280" width="235" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-2vYvEhh35MdCGSL4n_s-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-2vYvEhh35MdCGSL4n_s-12" target="RBl2X8r-nXLdk-oL6XRW-27">
           <mxGeometry relative="1" as="geometry" />
