@@ -785,6 +785,12 @@
         <mxCell id="RqJgiEIkcY2V-sFEQuEu-57" value="synchronization" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontFamily=Times New Roman;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="650" y="1160" width="150" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="RqJgiEIkcY2V-sFEQuEu-84" value="Transmitter" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=19;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="180" y="1320" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RqJgiEIkcY2V-sFEQuEu-85" value="Receiver" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=19;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="830" y="1080" width="140" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
