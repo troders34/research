@@ -560,6 +560,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="21LuwFIRwnyorhJvWN0T-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="21LuwFIRwnyorhJvWN0T-1" target="21LuwFIRwnyorhJvWN0T-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="21LuwFIRwnyorhJvWN0T-1" value="Adaptive modulations" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="210" y="115" width="100" height="90" as="geometry" />
         </mxCell>
@@ -568,6 +571,27 @@
         </mxCell>
         <mxCell id="21LuwFIRwnyorhJvWN0T-2" value="input&lt;div&gt;multimedia&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="50" y="130" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="21LuwFIRwnyorhJvWN0T-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="21LuwFIRwnyorhJvWN0T-4" target="21LuwFIRwnyorhJvWN0T-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="21LuwFIRwnyorhJvWN0T-4" value="Rayleigh&lt;div&gt;Fading&lt;/div&gt;&lt;div&gt;channel&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="350" y="115" width="100" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="21LuwFIRwnyorhJvWN0T-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="21LuwFIRwnyorhJvWN0T-6" target="21LuwFIRwnyorhJvWN0T-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="21LuwFIRwnyorhJvWN0T-6" value="equalization" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="490" y="115" width="100" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="21LuwFIRwnyorhJvWN0T-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="21LuwFIRwnyorhJvWN0T-8" target="21LuwFIRwnyorhJvWN0T-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="21LuwFIRwnyorhJvWN0T-8" value="demodulation" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="630" y="115" width="100" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="21LuwFIRwnyorhJvWN0T-10" value="parameters&lt;div&gt;calculation&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="770" y="115" width="100" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
