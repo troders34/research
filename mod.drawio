@@ -752,7 +752,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="SDtGxScRUEUEYX8WkUt7-10" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=4;fontFamily=Times New Roman;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="40" y="90" width="740" height="410" as="geometry" />
+          <mxGeometry x="40" y="80" width="740" height="410" as="geometry" />
         </mxCell>
         <mxCell id="SDtGxScRUEUEYX8WkUt7-2" value="USRP B210&lt;div&gt;as Tx&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;fontFamily=Times New Roman;fontSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="210" y="270" width="80" height="70" as="geometry" />
