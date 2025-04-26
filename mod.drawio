@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14" pages="9">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14" pages="10">
   <diagram name="tradOFDM" id="qTU9E4ANHA8HEx_OBcDo">
     <mxGraphModel dx="1033" dy="687" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -988,6 +988,35 @@
         </mxCell>
         <mxCell id="zLJnRNqJhRDFqoR9c8hz-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zLJnRNqJhRDFqoR9c8hz-4" target="zLJnRNqJhRDFqoR9c8hz-6">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="cS2XrqlIw-b7pcAF15do" name="compare">
+    <mxGraphModel dx="946" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9jypMl3kjIx9FH6tZh8S-1" value="BPSK" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontFamily=Times New Roman;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="260" y="140" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9jypMl3kjIx9FH6tZh8S-2" value="QPSK" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontFamily=Times New Roman;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="260" y="210" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9jypMl3kjIx9FH6tZh8S-3" value="16-QAM" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontFamily=Times New Roman;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="260" y="280" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9jypMl3kjIx9FH6tZh8S-4" value="Rayleigh Fading" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontFamily=Times New Roman;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="400" y="210" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9jypMl3kjIx9FH6tZh8S-5" value="BER" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontFamily=Times New Roman;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="570" y="170" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9jypMl3kjIx9FH6tZh8S-6" value="SNR" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontFamily=Times New Roman;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="570" y="240" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9jypMl3kjIx9FH6tZh8S-7" value="DWT-OFDM" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontFamily=Times New Roman;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="110" y="210" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
