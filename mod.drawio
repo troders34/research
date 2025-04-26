@@ -1018,6 +1018,9 @@
         <mxCell id="9jypMl3kjIx9FH6tZh8S-7" value="DWT-OFDM" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontFamily=Times New Roman;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="110" y="210" width="110" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="9jypMl3kjIx9FH6tZh8S-8" value="There will be 6 (six) independent results." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="340" y="420" width="330" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
