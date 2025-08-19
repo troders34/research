@@ -122,7 +122,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wrMWQTWLkahybJ0BuXg9-15" value="Demodulations" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="420" y="430" width="100" height="70" as="geometry" />
+          <mxGeometry x="390" y="430" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="wrMWQTWLkahybJ0BuXg9-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wrMWQTWLkahybJ0BuXg9-17" target="wrMWQTWLkahybJ0BuXg9-19">
           <mxGeometry relative="1" as="geometry" />
@@ -131,19 +131,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wrMWQTWLkahybJ0BuXg9-17" value="Reed Solomon decoding" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="570" y="430" width="100" height="70" as="geometry" />
+          <mxGeometry x="510" y="430" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="wrMWQTWLkahybJ0BuXg9-19" value="output data" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="710" y="430" width="100" height="70" as="geometry" />
+          <mxGeometry x="630" y="430" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="wrMWQTWLkahybJ0BuXg9-21" value="Diagram Constellation" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="420" y="530" width="100" height="70" as="geometry" />
+          <mxGeometry x="390" y="530" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="wrMWQTWLkahybJ0BuXg9-23" value="Bit Error Rate" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="570" y="530" width="100" height="70" as="geometry" />
+          <mxGeometry x="510" y="530" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="wrMWQTWLkahybJ0BuXg9-25" value="Eye Diagram" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="420" y="600" width="100" height="70" as="geometry" />
+          <mxGeometry x="390" y="600" width="100" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
