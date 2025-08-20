@@ -153,8 +153,68 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="5QIIMCG6FP4O9qukNE2y-1" value="R" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="40" y="40" width="100" height="100" as="geometry" />
+        <mxCell id="Bfj8SirGOa0ALOGr3p89-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=16;" edge="1" parent="1" source="5QIIMCG6FP4O9qukNE2y-1" target="Bfj8SirGOa0ALOGr3p89-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Bfj8SirGOa0ALOGr3p89-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=16;" edge="1" parent="1" source="5QIIMCG6FP4O9qukNE2y-1" target="Bfj8SirGOa0ALOGr3p89-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5QIIMCG6FP4O9qukNE2y-1" value="System Results" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="10" y="90" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Bfj8SirGOa0ALOGr3p89-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=16;" edge="1" parent="1" source="Bfj8SirGOa0ALOGr3p89-1" target="Bfj8SirGOa0ALOGr3p89-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Bfj8SirGOa0ALOGr3p89-1" value="Simulation&lt;div&gt;(without USRP B210)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="150" y="90" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Bfj8SirGOa0ALOGr3p89-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=16;" edge="1" parent="1" source="Bfj8SirGOa0ALOGr3p89-2" target="Bfj8SirGOa0ALOGr3p89-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Bfj8SirGOa0ALOGr3p89-2" value="Prototype&lt;div&gt;(with USRP B210)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="150" y="360" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Bfj8SirGOa0ALOGr3p89-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=16;" edge="1" parent="1" source="Bfj8SirGOa0ALOGr3p89-3" target="Bfj8SirGOa0ALOGr3p89-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Bfj8SirGOa0ALOGr3p89-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=16;" edge="1" parent="1" source="Bfj8SirGOa0ALOGr3p89-3" target="Bfj8SirGOa0ALOGr3p89-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Bfj8SirGOa0ALOGr3p89-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=16;" edge="1" parent="1" source="Bfj8SirGOa0ALOGr3p89-3" target="Bfj8SirGOa0ALOGr3p89-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Bfj8SirGOa0ALOGr3p89-3" value="Modulation schemes&lt;div&gt;1. BPSK&lt;/div&gt;&lt;div&gt;2. QPSK&lt;/div&gt;&lt;div&gt;3. 16QAM&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontFamily=Times New Roman;fontSize=16;align=center;" vertex="1" parent="1">
+          <mxGeometry x="330" y="90" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Bfj8SirGOa0ALOGr3p89-4" value="Ideal channel + without RS codes" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="560" y="40" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Bfj8SirGOa0ALOGr3p89-5" value="over Rayleigh Fading channel&lt;div&gt;+&amp;nbsp;&lt;/div&gt;&lt;div&gt;without RS codes&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="560" y="107.5" width="240" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="Bfj8SirGOa0ALOGr3p89-7" value="over Rayleigh Fading channel&lt;div&gt;+&lt;/div&gt;&lt;div&gt;RS codes&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="560" y="185" width="240" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Bfj8SirGOa0ALOGr3p89-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=16;" edge="1" parent="1" source="Bfj8SirGOa0ALOGr3p89-8" target="Bfj8SirGOa0ALOGr3p89-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Bfj8SirGOa0ALOGr3p89-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=16;" edge="1" parent="1" source="Bfj8SirGOa0ALOGr3p89-8" target="Bfj8SirGOa0ALOGr3p89-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Bfj8SirGOa0ALOGr3p89-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=16;" edge="1" parent="1" source="Bfj8SirGOa0ALOGr3p89-8" target="Bfj8SirGOa0ALOGr3p89-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Bfj8SirGOa0ALOGr3p89-8" value="Modulation schemes&lt;div&gt;1. BPSK&lt;/div&gt;&lt;div&gt;2. QPSK&lt;/div&gt;&lt;div&gt;3. 16QAM&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="330" y="360" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Bfj8SirGOa0ALOGr3p89-9" value="Ideal channel + without RS codes" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="560" y="310" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Bfj8SirGOa0ALOGr3p89-10" value="over Rayleigh Fading channel&lt;div&gt;+&amp;nbsp;&lt;/div&gt;&lt;div&gt;without RS codes&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="560" y="375" width="240" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Bfj8SirGOa0ALOGr3p89-11" value="over Rayleigh Fading channel&lt;div&gt;+&lt;/div&gt;&lt;div&gt;RS codes&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="560" y="460" width="240" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
