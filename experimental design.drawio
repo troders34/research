@@ -283,6 +283,12 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="J85sJdS_RALklEhmwvgQ-29" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontFamily=Times New Roman;fontSize=16;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="370" width="520" height="406.25" as="geometry" />
+        </mxCell>
+        <mxCell id="J85sJdS_RALklEhmwvgQ-30" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontFamily=Times New Roman;fontSize=16;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="80" width="520" height="250" as="geometry" />
+        </mxCell>
         <mxCell id="J85sJdS_RALklEhmwvgQ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="J85sJdS_RALklEhmwvgQ-1" target="J85sJdS_RALklEhmwvgQ-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -391,14 +397,20 @@
         <mxCell id="J85sJdS_RALklEhmwvgQ-27" value="Receiver" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="570" y="460" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="J85sJdS_RALklEhmwvgQ-29" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontFamily=Times New Roman;fontSize=16;fillColor=none;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="370" width="480" height="250" as="geometry" />
-        </mxCell>
-        <mxCell id="J85sJdS_RALklEhmwvgQ-30" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontFamily=Times New Roman;fontSize=16;fillColor=none;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="80" width="480" height="250" as="geometry" />
-        </mxCell>
         <mxCell id="J85sJdS_RALklEhmwvgQ-32" value="Transmitter" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="570" y="140" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="J85sJdS_RALklEhmwvgQ-33" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="J85sJdS_RALklEhmwvgQ-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="210" as="sourcePoint" />
+            <mxPoint x="400" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J85sJdS_RALklEhmwvgQ-34" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="J85sJdS_RALklEhmwvgQ-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="210" as="sourcePoint" />
+            <mxPoint x="70" y="490" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
