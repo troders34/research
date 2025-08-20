@@ -198,23 +198,17 @@
         <mxCell id="Bfj8SirGOa0ALOGr3p89-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=16;" edge="1" parent="1" source="Bfj8SirGOa0ALOGr3p89-8" target="Bfj8SirGOa0ALOGr3p89-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Bfj8SirGOa0ALOGr3p89-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=16;" edge="1" parent="1" source="Bfj8SirGOa0ALOGr3p89-8" target="Bfj8SirGOa0ALOGr3p89-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="Bfj8SirGOa0ALOGr3p89-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=16;" edge="1" parent="1" source="Bfj8SirGOa0ALOGr3p89-8" target="Bfj8SirGOa0ALOGr3p89-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Bfj8SirGOa0ALOGr3p89-8" value="Modulation schemes&lt;div&gt;1. BPSK&lt;/div&gt;&lt;div&gt;2. QPSK&lt;/div&gt;&lt;div&gt;3. 16QAM&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="330" y="360" width="170" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="Bfj8SirGOa0ALOGr3p89-9" value="Ideal channel + without RS codes" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="560" y="310" width="240" height="50" as="geometry" />
+        <mxCell id="Bfj8SirGOa0ALOGr3p89-10" value="without RS codes" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="550" y="340" width="240" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Bfj8SirGOa0ALOGr3p89-10" value="over Rayleigh Fading channel&lt;div&gt;+&amp;nbsp;&lt;/div&gt;&lt;div&gt;without RS codes&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="560" y="375" width="240" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="Bfj8SirGOa0ALOGr3p89-11" value="over Rayleigh Fading channel&lt;div&gt;+&lt;/div&gt;&lt;div&gt;RS codes&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="560" y="460" width="240" height="70" as="geometry" />
+        <mxCell id="Bfj8SirGOa0ALOGr3p89-11" value="with RS codes" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="550" y="420" width="240" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
