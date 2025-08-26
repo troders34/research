@@ -454,7 +454,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BXM2wldkOzkACK_6-jhh-3" value="Install Add-On: Communications Toolbox Support Package for USRP Radio" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="30" y="270" width="330" height="60" as="geometry" />
+          <mxGeometry x="20" y="270" width="350" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BXM2wldkOzkACK_6-jhh-4" value="Check the MATLAB and USRP B210 recognition" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="30" y="450" width="330" height="60" as="geometry" />
