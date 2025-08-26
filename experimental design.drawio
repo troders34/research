@@ -438,19 +438,19 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="BXM2wldkOzkACK_6-jhh-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BXM2wldkOzkACK_6-jhh-1" target="BXM2wldkOzkACK_6-jhh-2">
+        <mxCell id="BXM2wldkOzkACK_6-jhh-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=16;" edge="1" parent="1" source="BXM2wldkOzkACK_6-jhh-1" target="BXM2wldkOzkACK_6-jhh-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BXM2wldkOzkACK_6-jhh-1" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="160" y="40" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="BXM2wldkOzkACK_6-jhh-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BXM2wldkOzkACK_6-jhh-2" target="BXM2wldkOzkACK_6-jhh-3">
+        <mxCell id="BXM2wldkOzkACK_6-jhh-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=16;" edge="1" parent="1" source="BXM2wldkOzkACK_6-jhh-2" target="BXM2wldkOzkACK_6-jhh-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BXM2wldkOzkACK_6-jhh-2" value="Install MATLAB R2024b and Simulink,&lt;div&gt;Communications Toolbox,&lt;/div&gt;&lt;div&gt;DSP System Toolbox, and&lt;/div&gt;&lt;div&gt;Signal Processing Toolbox&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;align=center;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="30" y="140" width="330" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="BXM2wldkOzkACK_6-jhh-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BXM2wldkOzkACK_6-jhh-3" target="BXM2wldkOzkACK_6-jhh-6">
+        <mxCell id="BXM2wldkOzkACK_6-jhh-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=16;" edge="1" parent="1" source="BXM2wldkOzkACK_6-jhh-3" target="BXM2wldkOzkACK_6-jhh-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BXM2wldkOzkACK_6-jhh-3" value="Install Add-On: Communications Toolbox Support Package for USRP Radio" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
@@ -459,31 +459,31 @@
         <mxCell id="BXM2wldkOzkACK_6-jhh-4" value="Check the MATLAB and USRP B210 recognition" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="30" y="450" width="330" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BXM2wldkOzkACK_6-jhh-14" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Times New Roman&quot;&gt;YES&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BXM2wldkOzkACK_6-jhh-5" target="BXM2wldkOzkACK_6-jhh-13">
+        <mxCell id="BXM2wldkOzkACK_6-jhh-14" value="&lt;font&gt;YES&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=16;" edge="1" parent="1" source="BXM2wldkOzkACK_6-jhh-5" target="BXM2wldkOzkACK_6-jhh-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BXM2wldkOzkACK_6-jhh-16" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Times New Roman&quot;&gt;NO&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BXM2wldkOzkACK_6-jhh-5" target="BXM2wldkOzkACK_6-jhh-15">
+        <mxCell id="BXM2wldkOzkACK_6-jhh-16" value="&lt;font&gt;NO&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=16;" edge="1" parent="1" source="BXM2wldkOzkACK_6-jhh-5" target="BXM2wldkOzkACK_6-jhh-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BXM2wldkOzkACK_6-jhh-5" value="Does MATLAB recognize the USRP B210?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="110" y="540" width="170" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="BXM2wldkOzkACK_6-jhh-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BXM2wldkOzkACK_6-jhh-6" target="BXM2wldkOzkACK_6-jhh-4">
+        <mxCell id="BXM2wldkOzkACK_6-jhh-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=16;" edge="1" parent="1" source="BXM2wldkOzkACK_6-jhh-6" target="BXM2wldkOzkACK_6-jhh-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BXM2wldkOzkACK_6-jhh-6" value="Connect MATLAB to USRP B210 using USB cable" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="30" y="360" width="330" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BXM2wldkOzkACK_6-jhh-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BXM2wldkOzkACK_6-jhh-4" target="BXM2wldkOzkACK_6-jhh-5">
+        <mxCell id="BXM2wldkOzkACK_6-jhh-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Times New Roman;fontSize=16;" edge="1" parent="1" source="BXM2wldkOzkACK_6-jhh-4" target="BXM2wldkOzkACK_6-jhh-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BXM2wldkOzkACK_6-jhh-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BXM2wldkOzkACK_6-jhh-13" target="BXM2wldkOzkACK_6-jhh-18">
+        <mxCell id="BXM2wldkOzkACK_6-jhh-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=16;" edge="1" parent="1" source="BXM2wldkOzkACK_6-jhh-13" target="BXM2wldkOzkACK_6-jhh-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BXM2wldkOzkACK_6-jhh-13" value="&lt;div&gt;&lt;span style=&quot;color: rgb(33, 33, 33); text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;Adjust USRP radio settings and set radio parameters&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="30" y="770" width="330" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BXM2wldkOzkACK_6-jhh-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BXM2wldkOzkACK_6-jhh-15" target="BXM2wldkOzkACK_6-jhh-6">
+        <mxCell id="BXM2wldkOzkACK_6-jhh-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=16;" edge="1" parent="1" source="BXM2wldkOzkACK_6-jhh-15" target="BXM2wldkOzkACK_6-jhh-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BXM2wldkOzkACK_6-jhh-15" value="Visit MATLAB official documentation for &#39;Common Problems and Fixes&#39;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
@@ -495,7 +495,7 @@
         <mxCell id="BXM2wldkOzkACK_6-jhh-20" value="End" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="145" y="960" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BXM2wldkOzkACK_6-jhh-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BXM2wldkOzkACK_6-jhh-18" target="BXM2wldkOzkACK_6-jhh-20">
+        <mxCell id="BXM2wldkOzkACK_6-jhh-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Times New Roman;fontSize=16;" edge="1" parent="1" source="BXM2wldkOzkACK_6-jhh-18" target="BXM2wldkOzkACK_6-jhh-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
